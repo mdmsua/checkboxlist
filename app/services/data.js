@@ -1,6 +1,5 @@
 application.service('data', function () {
-	this.getNames = function() {
-		return [
+	var employees = [
 			{
 				id: 1, name: 'Manda Jantzen'
 			},
@@ -16,6 +15,14 @@ application.service('data', function () {
 			{
 				id: 5, name: 'Karina Steen'
 			}
-		]
-	}
+		];
+	this.getEmployees = function() {
+		return employees;
+	};
+	this.getName = function (e) {
+		for (var i = 0; i < employees.length; i++) {
+			if (employees[i].id === e)
+				return employees[i].name;
+		};
+	};
 })

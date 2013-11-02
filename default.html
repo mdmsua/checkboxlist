@@ -11,9 +11,16 @@
 	<div class="container" ng-cloak ng-controller="default">
 		<div class="row">
 			<div class="col-lg-2 col-lg-offset-5">
-				<form role="form">
-					<checkbox-list items="names" key="id" value="name" ng-model="chosen"></checkbox-list>
+				<form role="form" class="well">
+					<checkbox-list items="employees" key="id" value="name" ng-model="chosenEmployees"></checkbox-list>
 				</form>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<ul class="well">
+					<li ng-repeat="e in chosenEmployees">{{getName(e)}}</li>
+				</ul>
 			</div>
 		</div>
 	</div>

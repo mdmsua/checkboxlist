@@ -8,12 +8,16 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
 </head>
 <body ng-app="application">
-	<div class="container" ng-cloak ng-controller="">
-		<checkboxlist items="names" value="value" name="name">
-		</checkboxlist>
+	<div class="container" ng-cloak ng-controller="default">
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<form role="form">
+					<checkbox-list items="names" key="id" value="name" ng-model="chosen"></checkbox-list>
+				</form>
+			</div>
+		</div>
 	</div>
 	<script type="text/javascript" src="lib/angular.min.js"></script>
-	<script type="text/javascript" src="lib/underscore-min.js"></script>
 	<script type="text/javascript" src="app/application.js"></script>
 	<script type="text/javascript" src="app/directives/checkbox-list.js"></script>
 	<script type="text/javascript" src="app/services/data.js"></script>

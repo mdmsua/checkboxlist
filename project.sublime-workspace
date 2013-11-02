@@ -1,0 +1,171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"templateUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/default.html",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/services/data.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/templates/account.htm",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/default.htm",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/application.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/templates/home.htm",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/controllers/home.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/controllers/account.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/views/account.htm",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/lib/angular-resource.min.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/lib/angular.min.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/desktop.ini",
+		"/C/Program Files/nodejs/node_modules/npm/package.json",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/lib/bootstrap.js",
+		"/C/Users/Dmytro/Documents/GitHub/checkboxlist/default.html",
+		"/C/Users/Dmytro/Documents/GitHub/checkboxlist/app/application.js",
+		"/C/Users/Dmytro/Documents/GitHub/checkboxlist/app/services/data.js",
+		"/C/Users/Dmytro/Documents/GitHub/checkboxlist/app/directives/checkbox-list.js",
+		"/C/Users/Dmytro/Desktop/Write-Only.sql",
+		"/C/Users/Dmytro/Documents/Visual Studio 2013/Projects/Geld/Geld.sln",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/app/directives/account.js",
+		"/C/Users/Dmytro/Documents/visual studio 2013/Projects/DasGeldPre/DasGeldPre.sln",
+		"/C/Users/Dmytro/Desktop/animate-custom.css",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/web.config",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/lib/underscore-min.js",
+		"/C/Users/Dmytro/Documents/GitHub/mockup/js/jquery-1.10.2.min.js",
+		"/C/Users/Dmytro/TIMEmSYSTEM/dev-ukr/Application/mINTEGRATION/mINTEGRATION.Website/Web.config",
+		"/C/Users/Dmytro/Desktop/serverInfo.js",
+		"/C/Users/Dmytro/Desktop/log.log",
+		"/C/Users/Dmytro/Logs/SQL_Daily_Job.log",
+		"/C/Users/Dmytro/TIMEmSYSTEM/dev-ukr/DB/xDB/xDB/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/Actions/Get/GetEmployeeBySSN.proc.sql",
+		"/C/Users/Dmytro/TIMEmSYSTEM/dev-ukr/DB/xDB/xDB/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/Modules/SLS/slsGetSalaryIncrements.proc.sql",
+		"/C/Users/Dmytro/.gitconfig"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}

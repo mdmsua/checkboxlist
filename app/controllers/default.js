@@ -1,18 +1,7 @@
-application.controller("", function ($scope, data) {
-	$scope.accounts = [];
-	$scope.busy = true;
-	$scope.view = true;
-
-	$scope.switch = function(v) {
-		$scope.view = v;
-	};
-
-	$scope.getTotal = function(v) {
-		return _.where($scope.accounts, { active: v }).length;
-	};
-
-	data.getAccounts().then(function (d) {
-		$scope.busy = false;
-		$scope.accounts = d;
+application.controller("default", function ($scope, $log, data) {
+	$scope.names = data.getNames();
+	$scope.chosen = [];
+	$scope.$watch('chosen', function (v) {
+		$log.log('chosens are: ', v);
 	});
 });
